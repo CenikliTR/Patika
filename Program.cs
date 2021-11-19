@@ -17,8 +17,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             Int16 i16 = 2; // 2 byte
             int i = 2; // 4 byte
-            Int32 i32 = 2; // 4 byte
-            Int64 i64 = 2; // 8 byte
+            Int32 i32 = 2; // 4 bytes
+            Int64 i64 = 2; // 8 bytes
 
             uint  ui = 2;
             long l = 4;
